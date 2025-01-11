@@ -1,5 +1,11 @@
 # Kasir dan Farmasi Klinik Utama Mata Padang Eye Center Teluk Kuantan
 
+> [!WARNING]
+>
+> Mulai 11 Januari 2025, repositori sistem ini diarsipkan karena sistem ini dikembangkan menjadi **Sistem Informasi Manajemen Klinik Utama Mata Padang Eye Center Teluk Kuantan** yang sedang dalam pengembangan. Silakan [buka repositori baru kami](https://github.com/hafizulwanandaputra/pectk-simklinik).
+>
+> Starting January 11, 2025, this system repository is archived because this system is being developed into **Management Information System of Main Eye Clinic of Padang Eye Center Teluk Kuantan** which is under development. Please [visit our new repository](https://github.com/hafizulwanandaputra/pectk-simklinik).
+
 **Aplikasi Kasir dan Farmasi Klinik Utama Mata Padang Eye Center Teluk Kuantan** adalah sebuah sistem yang digunakan untuk memanajemen stok obat, resep obat, dan transaksi yang digunakan di Klinik Utama Mata Padang Eye Center Teluk Kuantan. Aplikasi ini didasarkan pada [HWPweb Admin Template](https://github.com/hafizulwanandaputra/hwpweb-admin-template) yang juga didasarkan pada [CodeIgniter 4](https://github.com/codeigniter4/appstarter).
 
 ## Instalasi
